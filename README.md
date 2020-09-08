@@ -8,4 +8,5 @@ The data was first published in https://www.nature.com/articles/s41598-019-51539
 Please report issues here. 
 
 
-You might also be interested to access more traffic data by our friends over @GraphHopper: https://github.com/graphhopper/open-traffic-collection
+You might also be interested to access more traffic data by our friends @EPFL: https://open-traffic.epfl.ch/
+or @GraphHopper: https://github.com/graphhopper/open-traffic-collection
